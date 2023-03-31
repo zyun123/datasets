@@ -1,0 +1,698 @@
+{
+  "version": "4.5.6", 
+  "flags": {}, 
+  "shapes": [
+    {
+      "label": "person", 
+      "points": [
+        [
+          60, 
+          120
+        ], 
+        [
+          1096, 
+          625
+        ]
+      ], 
+      "group_id": null, 
+      "shape_type": "rectangle", 
+      "flags": {}
+    }, 
+    {
+      "label": "L-sanjiao-1", 
+      "points": [
+        [
+          570.3153153153154, 
+          214.63963963963963
+        ]
+      ], 
+      "group_id": null, 
+      "shape_type": "point", 
+      "flags": {}
+    }, 
+    {
+      "label": "L-sanjiao-2", 
+      "points": [
+        [
+          610.4054054054054, 
+          220.27027027027026
+        ]
+      ], 
+      "group_id": null, 
+      "shape_type": "point", 
+      "flags": {}
+    }, 
+    {
+      "label": "L-sanjiao-3", 
+      "points": [
+        [
+          637.4324324324325, 
+          223.64864864864862
+        ]
+      ], 
+      "group_id": null, 
+      "shape_type": "point", 
+      "flags": {}
+    }, 
+    {
+      "label": "L-sanjiao-4", 
+      "points": [
+        [
+          733.3783783783784, 
+          261.7117117117117
+        ]
+      ], 
+      "group_id": null, 
+      "shape_type": "point", 
+      "flags": {}
+    }, 
+    {
+      "label": "L-sanjiao-5", 
+      "points": [
+        [
+          784.221635883905, 
+          271.76781002638523
+        ]
+      ], 
+      "group_id": null, 
+      "shape_type": "point", 
+      "flags": {}
+    }, 
+    {
+      "label": "L-sanjiao-6", 
+      "points": [
+        [
+          834.5347119645495, 
+          275.92319054652876
+        ]
+      ], 
+      "group_id": null, 
+      "shape_type": "point", 
+      "flags": {}
+    }, 
+    {
+      "label": "L-sanjiao-7", 
+      "points": [
+        [
+          849.8, 
+          285.0
+        ]
+      ], 
+      "group_id": null, 
+      "shape_type": "point", 
+      "flags": {}
+    }, 
+    {
+      "label": "L-sanjiao-8", 
+      "points": [
+        [
+          864.4897959183672, 
+          310.0185528756958
+        ]
+      ], 
+      "group_id": null, 
+      "shape_type": "point", 
+      "flags": {}
+    }, 
+    {
+      "label": "L-sanjiao-9", 
+      "points": [
+        [
+          879.2857142857142, 
+          355.2857142857143
+        ]
+      ], 
+      "group_id": null, 
+      "shape_type": "point", 
+      "flags": {}
+    }, 
+    {
+      "label": "R-sanjiao-1", 
+      "points": [
+        [
+          566.855241264559, 
+          518.9683860232946
+        ]
+      ], 
+      "group_id": null, 
+      "shape_type": "point", 
+      "flags": {}
+    }, 
+    {
+      "label": "R-sanjiao-2", 
+      "points": [
+        [
+          600.9650582362729, 
+          512.6455906821964
+        ]
+      ], 
+      "group_id": null, 
+      "shape_type": "point", 
+      "flags": {}
+    }, 
+    {
+      "label": "R-sanjiao-3", 
+      "points": [
+        [
+          632.0255863539446, 
+          504.26439232409376
+        ]
+      ], 
+      "group_id": null, 
+      "shape_type": "point", 
+      "flags": {}
+    }, 
+    {
+      "label": "R-sanjiao-4", 
+      "points": [
+        [
+          731.3859275053305, 
+          460.98081023454154
+        ]
+      ], 
+      "group_id": null, 
+      "shape_type": "point", 
+      "flags": {}
+    }, 
+    {
+      "label": "R-sanjiao-5", 
+      "points": [
+        [
+          784.8517520215634, 
+          454.177897574124
+        ]
+      ], 
+      "group_id": null, 
+      "shape_type": "point", 
+      "flags": {}
+    }, 
+    {
+      "label": "R-sanjiao-6", 
+      "points": [
+        [
+          834.6840958605665, 
+          454.90196078431376
+        ]
+      ], 
+      "group_id": null, 
+      "shape_type": "point", 
+      "flags": {}
+    }, 
+    {
+      "label": "R-sanjiao-7", 
+      "points": [
+        [
+          849.8529411764705, 
+          444.8529411764706
+        ]
+      ], 
+      "group_id": null, 
+      "shape_type": "point", 
+      "flags": {}
+    }, 
+    {
+      "label": "R-sanjiao-8", 
+      "points": [
+        [
+          864.6753246753246, 
+          420.5936920222635
+        ]
+      ], 
+      "group_id": null, 
+      "shape_type": "point", 
+      "flags": {}
+    }, 
+    {
+      "label": "R-sanjiao-9", 
+      "points": [
+        [
+          879.2857142857142, 
+          375.2857142857143
+        ]
+      ], 
+      "group_id": null, 
+      "shape_type": "point", 
+      "flags": {}
+    }, 
+    {
+      "label": "L-pangguang-9", 
+      "points": [
+        [
+          909.8083067092651, 
+          355.91054313099045
+        ]
+      ], 
+      "group_id": null, 
+      "shape_type": "point", 
+      "flags": {}
+    }, 
+    {
+      "label": "L-pangguang-10", 
+      "points": [
+        [
+          879.1428571428571, 
+          355.7142857142857
+        ]
+      ], 
+      "group_id": null, 
+      "shape_type": "point", 
+      "flags": {}
+    }, 
+    {
+      "label": "L-pangguang-11", 
+      "points": [
+        [
+          864.5714285714286, 
+          350.42857142857144
+        ]
+      ], 
+      "group_id": null, 
+      "shape_type": "point", 
+      "flags": {}
+    }, 
+    {
+      "label": "L-pangguang-12", 
+      "points": [
+        [
+          614.0073529411765, 
+          340.44117647058823
+        ]
+      ], 
+      "group_id": null, 
+      "shape_type": "point", 
+      "flags": {}
+    }, 
+    {
+      "label": "L-pangguang-13", 
+      "points": [
+        [
+          644.889705882353, 
+          350.55147058823525
+        ]
+      ], 
+      "group_id": null, 
+      "shape_type": "point", 
+      "flags": {}
+    }, 
+    {
+      "label": "L-pangguang-14", 
+      "points": [
+        [
+          604.8161764705883, 
+          350.735294117647
+        ]
+      ], 
+      "group_id": null, 
+      "shape_type": "point", 
+      "flags": {}
+    }, 
+    {
+      "label": "L-pangguang-15", 
+      "points": [
+        [
+          570.4411764705883, 
+          335.47794117647055
+        ]
+      ], 
+      "group_id": null, 
+      "shape_type": "point", 
+      "flags": {}
+    }, 
+    {
+      "label": "L-pangguang-16", 
+      "points": [
+        [
+          444.9253731343284, 
+          296.1194029850746
+        ]
+      ], 
+      "group_id": null, 
+      "shape_type": "point", 
+      "flags": {}
+    }, 
+    {
+      "label": "L-pangguang-17", 
+      "points": [
+        [
+          444.6134663341645, 
+          310.47381546134665
+        ]
+      ], 
+      "group_id": null, 
+      "shape_type": "point", 
+      "flags": {}
+    }, 
+    {
+      "label": "L-pangguang-18", 
+      "points": [
+        [
+          909.1611185086551, 
+          355.3928095872171
+        ]
+      ], 
+      "group_id": null, 
+      "shape_type": "point", 
+      "flags": {}
+    }, 
+    {
+      "label": "L-pangguang-19", 
+      "points": [
+        [
+          884.1428571428571, 
+          345.2857142857143
+        ]
+      ], 
+      "group_id": null, 
+      "shape_type": "point", 
+      "flags": {}
+    }, 
+    {
+      "label": "L-pangguang-20", 
+      "points": [
+        [
+          864.1187384044526, 
+          310.5751391465677
+        ]
+      ], 
+      "group_id": null, 
+      "shape_type": "point", 
+      "flags": {}
+    }, 
+    {
+      "label": "L-pangguang-21", 
+      "points": [
+        [
+          700.0371747211896, 
+          325.092936802974
+        ]
+      ], 
+      "group_id": null, 
+      "shape_type": "point", 
+      "flags": {}
+    }, 
+    {
+      "label": "L-pangguang-22", 
+      "points": [
+        [
+          674.9442379182155, 
+          320.817843866171
+        ]
+      ], 
+      "group_id": null, 
+      "shape_type": "point", 
+      "flags": {}
+    }, 
+    {
+      "label": "L-pangguang-23", 
+      "points": [
+        [
+          569.7058823529412, 
+          305.1470588235294
+        ]
+      ], 
+      "group_id": null, 
+      "shape_type": "point", 
+      "flags": {}
+    }, 
+    {
+      "label": "L-pangguang-24", 
+      "points": [
+        [
+          384.37636761487965, 
+          300.65645514223195
+        ]
+      ], 
+      "group_id": null, 
+      "shape_type": "point", 
+      "flags": {}
+    }, 
+    {
+      "label": "R-pangguang-9", 
+      "points": [
+        [
+          908.8498402555911, 
+          378.1150159744409
+        ]
+      ], 
+      "group_id": null, 
+      "shape_type": "point", 
+      "flags": {}
+    }, 
+    {
+      "label": "R-pangguang-10", 
+      "points": [
+        [
+          880.0, 
+          375.57142857142856
+        ]
+      ], 
+      "group_id": null, 
+      "shape_type": "point", 
+      "flags": {}
+    }, 
+    {
+      "label": "R-pangguang-11", 
+      "points": [
+        [
+          864.860853432282, 
+          380.3339517625232
+        ]
+      ], 
+      "group_id": null, 
+      "shape_type": "point", 
+      "flags": {}
+    }, 
+    {
+      "label": "R-pangguang-12", 
+      "points": [
+        [
+          614.7426470588235, 
+          390.25735294117646
+        ]
+      ], 
+      "group_id": null, 
+      "shape_type": "point", 
+      "flags": {}
+    }, 
+    {
+      "label": "R-pangguang-13", 
+      "points": [
+        [
+          645.4411764705883, 
+          380.88235294117646
+        ]
+      ], 
+      "group_id": null, 
+      "shape_type": "point", 
+      "flags": {}
+    }, 
+    {
+      "label": "R-pangguang-14", 
+      "points": [
+        [
+          605.0, 
+          380.88235294117646
+        ]
+      ], 
+      "group_id": null, 
+      "shape_type": "point", 
+      "flags": {}
+    }, 
+    {
+      "label": "R-pangguang-15", 
+      "points": [
+        [
+          570.2573529411766, 
+          394.485294117647
+        ]
+      ], 
+      "group_id": null, 
+      "shape_type": "point", 
+      "flags": {}
+    }, 
+    {
+      "label": "R-pangguang-16", 
+      "points": [
+        [
+          444.6992054483542, 
+          442.67877412031777
+        ]
+      ], 
+      "group_id": null, 
+      "shape_type": "point", 
+      "flags": {}
+    }, 
+    {
+      "label": "R-pangguang-17", 
+      "points": [
+        [
+          444.58569807037463, 
+          428.8308740068104
+        ]
+      ], 
+      "group_id": null, 
+      "shape_type": "point", 
+      "flags": {}
+    }, 
+    {
+      "label": "R-pangguang-18", 
+      "points": [
+        [
+          909.0095846645368, 
+          378.4345047923323
+        ]
+      ], 
+      "group_id": null, 
+      "shape_type": "point", 
+      "flags": {}
+    }, 
+    {
+      "label": "R-pangguang-19", 
+      "points": [
+        [
+          885.0, 
+          385.0
+        ]
+      ], 
+      "group_id": null, 
+      "shape_type": "point", 
+      "flags": {}
+    }, 
+    {
+      "label": "R-pangguang-20", 
+      "points": [
+        [
+          864.1187384044526, 
+          420.22263450834885
+        ]
+      ], 
+      "group_id": null, 
+      "shape_type": "point", 
+      "flags": {}
+    }, 
+    {
+      "label": "R-pangguang-21", 
+      "points": [
+        [
+          699.2229038854805, 
+          405.72597137014316
+        ]
+      ], 
+      "group_id": null, 
+      "shape_type": "point", 
+      "flags": {}
+    }, 
+    {
+      "label": "R-pangguang-22", 
+      "points": [
+        [
+          674.4785276073619, 
+          410.2249488752557
+        ]
+      ], 
+      "group_id": null, 
+      "shape_type": "point", 
+      "flags": {}
+    }, 
+    {
+      "label": "R-pangguang-23", 
+      "points": [
+        [
+          569.7142857142857, 
+          430.2857142857143
+        ]
+      ], 
+      "group_id": null, 
+      "shape_type": "point", 
+      "flags": {}
+    }, 
+    {
+      "label": "R-pangguang-24", 
+      "points": [
+        [
+          383.9387308533917, 
+          440.9190371991247
+        ]
+      ], 
+      "group_id": null, 
+      "shape_type": "point", 
+      "flags": {}
+    }, 
+    {
+      "label": "R-pangguang-7", 
+      "points": [
+        [
+          984.302925989673, 
+          381.75559380378655
+        ]
+      ], 
+      "group_id": null, 
+      "shape_type": "point", 
+      "flags": {}
+    }, 
+    {
+      "label": "R-pangguang-30", 
+      "points": [
+        [
+          970.031948881789, 
+          380.8306709265176
+        ]
+      ], 
+      "group_id": null, 
+      "shape_type": "point", 
+      "flags": {}
+    }, 
+    {
+      "label": "R-pangguang-8", 
+      "points": [
+        [
+          955.3354632587859, 
+          380.03194888178916
+        ]
+      ], 
+      "group_id": null, 
+      "shape_type": "point", 
+      "flags": {}
+    }, 
+    {
+      "label": "L-pangguang-7", 
+      "points": [
+        [
+          984.2492012779553, 
+          357.3482428115016
+        ]
+      ], 
+      "group_id": null, 
+      "shape_type": "point", 
+      "flags": {}
+    }, 
+    {
+      "label": "L-pangguang-30", 
+      "points": [
+        [
+          969.8722044728435, 
+          356.2300319488818
+        ]
+      ], 
+      "group_id": null, 
+      "shape_type": "point", 
+      "flags": {}
+    }, 
+    {
+      "label": "L-pangguang-8", 
+      "points": [
+        [
+          954.034620505992, 
+          356.5912117177097
+        ]
+      ], 
+      "group_id": null, 
+      "shape_type": "point", 
+      "flags": {}
+    }
+  ], 
+  "imagePath": "m_down_wai_20230105120659999.jpg", 
+  "imageData": null, 
+  "imageHeight": 720, 
+  "imageWidth": 1280
+}
